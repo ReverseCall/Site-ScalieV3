@@ -1,1 +1,1 @@
-web: gunicorn SIteAniversarioScalie.wsgi --log-file -
+web: gunicorn SIteAniversarioScalie.wsgi
